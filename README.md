@@ -66,7 +66,6 @@ Rutas, controladores, migraciones y vistas listas para producción.
 
 <p align="center">
   <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=Misael10x&cc=000&tc=37BCF6&ic=fff&bc=000" />
-  <img width="48%" src="https://github-readme-stats-evirunurm.vercel.app/api/top-langs/?username=Misael10x&layout=compact&theme=tokyonight" />
 </p>
 
 
