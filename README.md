@@ -63,8 +63,8 @@ Rutas, controladores, migraciones y vistas listas para producción.
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Misael10x&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Misael10x&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-mu-orpin.vercel.app/api?username=Misael10x&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=Misael10x&layout=compact&theme=tokyonight" />
 </p>
 
 
