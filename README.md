@@ -63,9 +63,10 @@ Rutas, controladores, migraciones y vistas listas para producción.
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Misael10x&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misael10x&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Misael10x&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Misael10x&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -73,8 +74,9 @@ Rutas, controladores, migraciones y vistas listas para producción.
 Si te interesa colaborar, pedir ayuda o revisar proyectos, puedes encontrarme aquí:
 
 - ✉️ **Correo:** *misabar12389@gmail.com*  
-- 💬 GitHub Issues  
-- 📱 *IG:misa_oficial01* Redes sociales
+- 💬 GitHub: *Misael10x*
+- 📱 *IG:misa_oficial01*
+- 📱 *56-43-87-21-36*
 
 ---
 
